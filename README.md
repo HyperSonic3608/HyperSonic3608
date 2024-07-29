@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HyperSonic3608/HyperSonic3608/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/HyperSonic3608/HyperSonic3608/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
