@@ -2,11 +2,9 @@
 
 ###
 
-<img align="right" height="" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNsdHV6cTV3NmVpZDc1cngwYmplcjBmcTh4OWZwa3RyYjBpdDRkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IIabNbNNRFOMvvirkR/giphy.gif"  />
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNsdHV6cTV3NmVpZDc1cngwYmplcjBmcTh4OWZwa3RyYjBpdDRkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IIabNbNNRFOMvvirkR/giphy.gif"  />
 
-###
-
-<h4 align="left">Experiência em:</h4>
+<h4 align="left">Aprendendo:</h4>
 
 ###
 
