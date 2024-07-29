@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é Davi Sollar e estou aprendendo a programar 😁</h2>
+<h2 align="center">Oi 👋! Meu nome é Davi Sollar e estou aprendendo a programar 😁</h2>
 
 ###
 
@@ -41,6 +41,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HyperSonic3608&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=HyperSonic3608&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="130" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HyperSonic3608&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="130" alt="languages graph"  />
 </div>
 
