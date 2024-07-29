@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">Estatísticas:</h3>
+<h3 align="center">Estatísticas:</h3>
 
 ###
 
