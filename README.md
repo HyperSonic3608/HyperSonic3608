@@ -9,8 +9,23 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=java,php,unity" height="40" alt="java, php, unity logos"  />
   <img width="12" />
+<!--   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" /> -->
+</div>
+
+###
+
+<h4 align="left">Já aprendi:</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,mysql,html,css,js" height="40" alt="cplusplus, c, mysql, html5, css3, javascript logos"  />
+<!--   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
@@ -19,16 +34,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /> -->
 </div>
 
 ###
 
-<h4 align="left">Me contate:</h4>
+<h4 align="center">Me contate:</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/davisollar" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
   </a>
