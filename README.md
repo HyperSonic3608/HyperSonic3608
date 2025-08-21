@@ -44,6 +44,10 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/davisollar/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+  </a>
+  <img width="12" />
   <a href="https://www.instagram.com/davisollar" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
   </a>
