@@ -47,15 +47,15 @@
   <a href="https://www.linkedin.com/in/davisollar/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   </a>
-  <img width="12" />
+  <img width="1" />
   <a href="https://www.instagram.com/davisollar" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
   </a>
-  <img width="12" />
+  <img width="1" />
   <a href="https://discord.com/users/602617391305850897" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
   </a>
-  <img width="12" />
+  <img width="1" />
   <a href="mailto:davisollar@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
   </a>
