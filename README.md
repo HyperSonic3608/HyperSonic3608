@@ -1,10 +1,23 @@
 <h2 align="center">Olá 👋! Meu nome é Davi Sollar 😁</h2>
 
-<img align="right" height="230" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNsdHV6cTV3NmVpZDc1cngwYmplcjBmcTh4OWZwa3RyYjBpdDRkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IIabNbNNRFOMvvirkR/giphy.gif"  />
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNsdHV6cTV3NmVpZDc1cngwYmplcjBmcTh4OWZwa3RyYjBpdDRkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IIabNbNNRFOMvvirkR/giphy.gif"  />
 
-<h4 align="left">Estudei / Desenvolvi com:</h4>
+<ul>
+  <li>Tenho 18 anos</li>
+  <li>Estudo Engenharia de Software na Pontifícia <br> Universidade Católica de Minas Gerais (PUC Minas)</li>
+  <li>Sou técnico em Informática pelo Centro Federal <br> de Educação Tecnológica de Minas Gerais (CEFET-MG)</li>
+  <li>Gosto de jogos digitais, modding, decompilação <br> e engenharia reversa</li>
+</ul>
+
+#
 
 <div align="left">
+  <h4>Aprendendo: </h4>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  /> <br>
+</div>
+
+<div align="left">
+  <h4>Estudei / Desenvolvi com:</h4>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java" height="40" alt="c, cplusplus, csharp, java logos"  /> <br>
   <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql" height="40" alt="php, html5, css3, javasript, mysql logos"  /> <br>
   <img src="https://skillicons.dev/icons?i=unity,vscode,eclipse" height="40" alt=unity, vscode, eclipse logos"  /> <br>
