@@ -1,6 +1,6 @@
 <h2 align="center">Olá 👋! Meu nome é Davi Sollar 😁</h2>
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNsdHV6cTV3NmVpZDc1cngwYmplcjBmcTh4OWZwa3RyYjBpdDRkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IIabNbNNRFOMvvirkR/giphy.gif"  />
+<img align="right" height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNsdHV6cTV3NmVpZDc1cngwYmplcjBmcTh4OWZwa3RyYjBpdDRkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IIabNbNNRFOMvvirkR/giphy.gif"  />
 
 <ul>
   <li>Tenho 18 anos</li>
