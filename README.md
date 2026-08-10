@@ -12,13 +12,8 @@
 #
 
 <div align="left">
-  <h4>Aprendendo: </h4>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  /> <br>
-</div>
-
-<div align="left">
   <h4>Estudei / Desenvolvi com:</h4>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java" height="40" alt="c, cplusplus, csharp, java logos"  /> <br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" height="40" alt="c, cplusplus, csharp, java, python logos"  /> <br>
   <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql" height="40" alt="php, html5, css3, javasript, mysql logos"  /> <br>
   <img src="https://skillicons.dev/icons?i=unity,vscode,eclipse" height="40" alt=unity, vscode, eclipse logos"  /> <br>
   <img src="https://skillicons.dev/icons?i=windows,linux" height="40" alt=windows, linux logos"  /> <br>
