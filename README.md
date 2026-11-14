@@ -12,43 +12,49 @@
             <!--Portfolio-->
             <td>
                 <a href="https://davisollar.me/">
-                    <img src="https://github.com/lucide-icons/lucide/raw/refs/heads/main/icons/notebook-text.svg" width="50px" height="50px"/>
+                    <img src="https://api.iconify.design/bytesize/portfolio.svg?color=white&width=50&height=50" />
                 </a>
             </td>
-            <!--GitHub-->
+            <!--GitHub Pessoal-->
             <td>
                 <a href="https://github.com/HyperSonic3608" target="_blank">
-                    <img src="https://github.com/simple-icons/simple-icons/raw/refs/heads/develop/icons/github.svg" width="50px" height="50px"/>
+                    <img src="https://api.iconify.design/simple-icons/github.svg?color=white&width=50&height=50" /><img src="https://api.iconify.design/octicon/person-16.svg?color=white&width=16&height=16" />
+                </a>
+            </td>
+            <!--GitHub Organização-->
+            <td>
+                <a href="https://github.com/5byp8r" target="_blank">
+                    <img src="https://api.iconify.design/simple-icons/github.svg?color=white&width=50&height=50" /><img src="https://api.iconify.design/octicon/organization-16.svg?color=white&width=16&height=16" />
                 </a>
             </td>
             <!--Email-->
             <td>
                 <a href="mailto:davisollar@gmail.com" target="_blank">
-                    <img src="https://github.com/simple-icons/simple-icons/raw/refs/heads/develop/icons/gmail.svg" width="50px" height="50px"/>
+                    <img src="https://api.iconify.design/simple-icons/gmail.svg?color=white&width=50&height=50" />
                 </a>
             </td>
             <!--Instagram-->
             <td>
                 <a href="https://www.instagram.com/davisollar/" target="_blank">
-                    <img src="https://github.com/simple-icons/simple-icons/raw/refs/heads/develop/icons/instagram.svg" width="50px" height="50px"/>
+                    <img src="https://api.iconify.design/simple-icons/instagram.svg?color=white&width=50&height=50" />
                 </a>
             </td>
             <!--LinkedIn-->
             <td>
                 <a href="https://www.linkedin.com/in/davisollar/" target="_blank">
-                    <img src="https://github.com/FortAwesome/Font-Awesome/raw/refs/heads/7.x/svgs/brands/linkedin.svg" width="50px" height="50px"/>
+                    <img src="https://api.iconify.design/fa-brands/linkedin.svg?color=white&width=50&height=50" />
                 </a>
             </td>
             <!--Lattes-->
             <td>
                 <a href="http://lattes.cnpq.br/8696326319022449" target="_blank">
-                    <img src="https://github.com/jpswalsh/academicons/raw/refs/heads/master/svg/lattes.svg" width="50px" height="50px"/>
+                    <img src="https://api.iconify.design/academicons/lattes.svg?color=white&width=50&height=50" />
                 </a>
             </td>
             <!--Discord-->
             <td>
                 <a href="https://discordapp.com/users/602617391305850897" target="_blank">
-                    <img src="https://github.com/simple-icons/simple-icons/raw/refs/heads/develop/icons/discord.svg" width="50px" height="50px"/>
+                    <img src="https://api.iconify.design/simple-icons/discord.svg?color=white&width=50&height=50" />
                 </a>
             </td>
         </tr>
