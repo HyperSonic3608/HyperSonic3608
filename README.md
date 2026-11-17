@@ -4,8 +4,8 @@
 
 <!--Contatos-->
 <div align="center">
-    <!--Portfolio-->
-    <a href="https://davisollar.me/"><img src="https://img.shields.io/badge/portfolio-d4ec38?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMzIgMzIiPgoJPHBhdGggZD0iTTAgMGgzMnYzMkgweiIgZmlsbD0ibm9uZSIgLz4KCTxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZD0iTTI5IDE3djExSDNWMTdNMiA4aDI4djhzLTYgNC0xNCA0cy0xNC00LTE0LTR6bTE0IDE0di00bTQtMTBzMC00LTQtNHMtNCA0LTQgNCIgLz4KPC9zdmc+Cg==" /></a>
+    <!--Portfólio-->
+    <a href="https://davisollar.me/"><img src="https://img.shields.io/badge/portfólio-d4ec38?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMzIgMzIiPgoJPHBhdGggZD0iTTAgMGgzMnYzMkgweiIgZmlsbD0ibm9uZSIgLz4KCTxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZD0iTTI5IDE3djExSDNWMTdNMiA4aDI4djhzLTYgNC0xNCA0cy0xNC00LTE0LTR6bTE0IDE0di00bTQtMTBzMC00LTQtNHMtNCA0LTQgNCIgLz4KPC9zdmc+Cg==" /></a>
     <!--GitHub Pessoal-->
     <a href="https://github.com/HyperSonic3608" target="_blank"><img src="https://img.shields.io/badge/GitHub-pessoal-06094F?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
     <!--GitHub Organização-->
@@ -35,7 +35,7 @@
 
 <!--Habilidades-->
 <div align="center">
-    <h3><img src="https://api.iconify.design/line-md/document-code-twotone.svg?color=white&width=20" />&nbsp;Linguagens e Ferramentas:</h3>
+    <h3><picture><source srcset="https://api.iconify.design/fa-solid/code.svg?color=%23f0f6fc&width=20" media="(prefers-color-scheme: dark)"/><img src="https://api.iconify.design/fa-solid/code.svg?color=black&width=20" /></picture>&nbsp;Linguagens e Ferramentas:</h3>
     <h4>Front-end:</h4>
     <!--HTML-->
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
@@ -68,7 +68,7 @@
     <a href="https://www.php.net/docs.php" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
     <h4>Dados:</h4>
     <!--MySQL-->
-    <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+    <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4KCTxwYXRoIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTUuNDYyIDQuMDRhMi43IDIuNyAwIDAgMC0uNjcuMDc0di4wMzhoLjAzN2MuMTMuMjY3LjM2LjQ0LjUyMS42N2wuMzcyLjc4MWwuMDM4LS4wMzdjLjIzLS4xNjIuMzM2LS40MjIuMzM1LS44MTljLS4wOTMtLjA5Ny0uMTA3LS4yMTktLjE4Ny0uMzM1Yy0uMTA2LS4xNTQtLjMxMi0uMjQyLS40NDYtLjM3Mm0xOC4wMTcgMTkuMDk3Yy4xNzUuMTI5LjI5My4zMjkuNTIxLjQxdi0uMDM4Yy0uMTItLjE1Mi0uMTUtLjM2Mi0uMjYtLjUyMXEtLjI0My0uMjQtLjQ4NC0uNDg0YTggOCAwIDAgMC0xLjcxMy0xLjYzOGMtLjUwOC0uMzY1LTEuNjQ5LS44NTktMS44NjEtMS40NTFsLS4wMzgtLjAzOGMuMzYxLS4wNC43ODQtLjE3MSAxLjExNy0uMjZjLjU2LS4xNSAxLjA2LS4xMTIgMS42MzgtLjI2bC43ODItLjIyNHYtLjE1Yy0uMjkyLS4zLS41LS42OTYtLjgxOS0uOTY3Yy0uODM0LS43MS0xLjc0My0xLjQyLTIuNjgtMi4wMWMtLjUyLS4zMjktMS4xNjItLjU0MS0xLjcxMy0uODJjLS4xODUtLjA5My0uNTEtLjE0Mi0uNjMyLS4yOTdjLS4yOS0uMzctLjQ0Ny0uODM3LS42Ny0xLjI2NmMtLjQ2Ny0uOS0uOTI3LTEuODgzLTEuMzQtMi44M2MtLjI4My0uNjQ1LS40NjctMS4yODEtLjgyLTEuODZjLTEuNjktMi43OC0zLjUxLTQuNDU3LTYuMzI4LTYuMTA2Yy0uNi0uMzUtMS4zMjItLjQ4OS0yLjA4NC0uNjdsLTEuMjI5LS4wNzRjLS4yNS0uMTA1LS41MS0uNDEtLjc0NC0uNTU5QzMuMTg4LjQzNC43OTItLjg0OS4xMDIuODM4Yy0uNDM3IDEuMDY1LjY1MiAyLjEwNCAxLjA0MiAyLjY0M2MuMjczLjM3OS42MjMuODAzLjgxOSAxLjIyOWMuMTI4LjI4LjE1LjU2LjI2Ljg1NmMuMjcxLjczLjUwNiAxLjUyMi44NTYgMi4xOTZjLjE3OC4zNDEuMzczLjcuNTk2IDEuMDA1Yy4xMzguMTg3LjM3Mi4yNy40MDkuNTU5Yy0uMjMuMzIxLS4yNDIuODItLjM3MSAxLjIyOGMtLjU4MiAxLjgzNS0uMzYzIDQuMTE1LjQ4NCA1LjQ3M2MuMjU5LjQxNi44NyAxLjMxIDEuNzExLjk2N2MuNzM2LS4zLjU3Mi0xLjIyOC43ODItMi4wNDdjLjA0Ny0uMTg2LjAxOS0uMzIzLjExMi0uNDQ3di4wMzdsLjY3IDEuMzRjLjQ5Ni43OTkgMS4zNzYgMS42MzQgMi4xMjIgMi4xOTdjLjM4Ni4yOTIuNjkuNzk3IDEuMTkxLjk2OHYtLjAzOGgtLjAzN2MtLjA5OC0uMTUtLjI1LS4yMTMtLjM3Mi0uMzM1YTguNiA4LjYgMCAwIDEtLjg1Ny0uOTY4Yy0uNjc4LS45Mi0xLjI3Ny0xLjkyOC0xLjgyMy0yLjk3N2MtLjI2MS0uNTAyLS40ODgtMS4wNTQtLjcwOC0xLjU2NGMtLjA4NS0uMTk3LS4wODQtLjQ5NC0uMjYtLjU5NmMtLjI0MS4zNzQtLjU5Ni42NzYtLjc4MiAxLjExN2MtLjI5OC43MDUtLjMzNyAxLjU2NS0uNDQ3IDIuNDU3Yy0uMDY1LjAyMy0uMDM2LjAwNy0uMDc1LjAzN2MtLjUxOC0uMTI1LS43LS42NTktLjg5My0xLjExN2MtLjQ4Ny0xLjE1Ny0uNTc4LTMuMDIyLS4xNDktNC4zNTVjLjExMS0uMzQ1LjYxMy0xLjQzMS40MS0xLjc1Yy0uMDk4LS4zMTgtLjQxNy0uNTAxLS41OTYtLjc0NEE2IDYgMCAwIDEgMy42IDcuMTY2Yy0uMzk4LS45MDItLjU4NS0xLjkxNi0xLjAwNS0yLjgyOWMtLjItLjQzNi0uNTQtLjg3Ny0uODE5LTEuMjY1Yy0uMzA4LS40My0uNjU0LS43NDYtLjg5My0xLjI2NmMtLjA4NS0uMTg1LS4yMDEtLjQ4LS4wNzUtLjY3Yy4wNC0uMTI4LjA5Ny0uMTgyLjIyNC0uMjIzYy4yMTYtLjE2Ny44MTcuMDU1IDEuMDQyLjE0OGMuNTk3LjI0OCAxLjA5NS40ODQgMS42LjgyYy4yNDMuMTYuNDg5LjQ3Mi43ODIuNTU4aC4zMzVjLjUyNS4xMiAxLjExMi4wMzcgMS42MDEuMTg2Yy44NjUuMjYzIDEuNjQuNjcyIDIuMzQ1IDEuMTE3YzIuMTQ2IDEuMzU1IDMuOSAzLjI4MyA1LjEgNS41ODRjLjE5My4zNy4yNzcuNzI0LjQ0NyAxLjExN2MuMzQzLjc5Mi43NzUgMS42MDcgMS4xMTYgMi4zODJjLjM0Ljc3My42NzMgMS41NTMgMS4xNTQgMi4xOTZjLjI1My4zMzggMS4yMzEuNTIgMS42NzYuNzA4Yy4zMTEuMTMxLjgyMS4yNjkgMS4xMTYuNDQ2Yy41NjQuMzQgMS4xMS43NDUgMS42MzggMS4xMTdjLjI2NC4xODcgMS4wNzcuNTk1IDEuMTE3LjkzYy0xLjMxLS4wMzQtMi4zMS4wODctMy4xNjQuNDQ4Yy0uMjQzLjEwMi0uNjMuMTA1LS42Ny40MDljLjEzMy4xNC4xNTQuMzUuMjYuNTIxYy4yMDQuMzMuNTQ5Ljc3My44NTYgMS4wMDVjLjMzNy4yNTQuNjgzLjUyNSAxLjA0My43NDVjLjY0LjM5IDEuMzU2LjYxNCAxLjk3MiAxLjAwNWMuMzY1LjIzMS43MjYuNTIxIDEuMDguNzgyIiAvPgo8L3N2Zz4K" /></a>
     <!--MongoDB-->
     <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
     <h4>Jogos:</h4>
@@ -104,14 +104,11 @@
 ---
 
 <!--Estatísticas-->
-<h3 align="center">Estatísticas:</h3>
-
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HyperSonic3608&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="110" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=HyperSonic3608&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="110" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HyperSonic3608&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="110" alt="languages graph"  />
+    <h3><picture><source srcset="https://api.iconify.design/at-icons/stats.svg?color=%23f0f6fc&width=20" media="(prefers-color-scheme: dark)"/><img src="https://api.iconify.design/fa7-solid/at-icons/stats.svg?color=black&width=20" /></picture>&nbsp;Estatísticas:</h3>
+    <img src="https://github-stats-extended.vercel.app/api?username=HyperSonic3608&show_icons=true&include_all_commits=true&theme=dark_github&hide_border=true&locale=pt-br" height="110" alt="stats graph"  />
+    <img src="img/streak.svg" height="110" alt="streak graph"  />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=HyperSonic3608&layout=compact&langs_count=6&theme=dark_github&hide_border=true&locale=pt-br" height="110" alt="languages graph"  />
 </div>
 
 <br clear="both">
