@@ -35,11 +35,40 @@
 
 <!--Habilidades-->
 <div align="left">
-  <h4>Estudei / Desenvolvi com:</h4>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" height="40" alt="c, cplusplus, csharp, java, python logos"  /> <br>
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql" height="40" alt="php, html5, css3, javasript, mysql logos"  /> <br>
-  <img src="https://skillicons.dev/icons?i=unity,vscode,eclipse" height="40" alt=unity, vscode, eclipse logos"  /> <br>
-  <img src="https://skillicons.dev/icons?i=windows,linux" height="40" alt=windows, linux logos"  /> <br>
+    <h4>Estudei / Desenvolvi com:</h4>
+    <!--C-->
+    <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /></a>
+    <!--C++-->
+    <a href="https://en.cppreference.com/w/cpp" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+    <!--C#-->
+    <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-953CAD?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4KCTxwYXRoIGZpbGw9IiNmZmYiIGQ9Im0xMS41IDE1Ljk3bC40MSAyLjQ0Yy0uMjYuMTQtLjY4LjI3LTEuMjQuMzljLS41Ny4xMy0xLjI0LjItMi4wMS4yYy0yLjIxLS4wNC0zLjg3LS43LTQuOTgtMS45NlEyIDE1LjEzNSAyIDEyLjIxYy4wNS0yLjMxLjcyLTQuMDggMi01LjMyQzUuMzIgNS42NCA2Ljk2IDUgOC45NCA1Yy43NSAwIDEuNC4wNyAxLjk0LjE5cy45NC4yNSAxLjIuNGwtLjU4IDIuNDlsLTEuMDYtLjM0Yy0uNC0uMS0uODYtLjE1LTEuMzktLjE1Yy0xLjE2LS4wMS0yLjEyLjM2LTIuODcgMS4xYy0uNzYuNzMtMS4xNSAxLjg1LTEuMTggMy4zNGMwIDEuMzYuMzcgMi40MiAxLjA4IDMuMmMuNzEuNzcgMS43MSAxLjE3IDIuOTkgMS4xOGwxLjMzLS4xMmMuNDMtLjA4Ljc5LS4xOSAxLjEtLjMyTTEzLjg5IDE5bC42MS00SDEzbC4zNC0yaDEuNWwuMzItMmgtMS41TDE0IDloMS41bC42MS00aDJsLS42MSA0aDFsLjYxLTRoMmwtLjYxIDRIMjJsLS4zNCAyaC0xLjVsLS4zMiAyaDEuNUwyMSAxNWgtMS41bC0uNjEgNGgtMmwuNjEtNGgtMWwtLjYxIDR6bTIuOTUtNmgxbC4zMi0yaC0xeiIgLz4KPC9zdmc+Cg==" /></a>
+    <!--Java-->
+    <a href="https://dev.java/learn/" target="_blank"><img src="https://img.shields.io/badge/Java-F58219?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIwLjc1ZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMzg0IDUxMiI+Cgk8cGF0aCBkPSJNMCAwaDM4NHY1MTJIMHoiIGZpbGw9Im5vbmUiIC8+Cgk8cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjc3Ljc0IDMxMi45YzkuOC02LjcgMjMuNC0xMi41IDIzLjQtMTIuNXMtMzguNyA3LTc3LjIgMTAuMmMtNDcuMSAzLjktOTcuNyA0LjctMTIzLjEgMS4zYy02MC4xLTggMzMtMzAuMSAzMy0zMC4xcy0zNi4xLTIuNC04MC42IDE5Yy01Mi41IDI1LjQgMTMwIDM3IDIyNC41IDEyLjFtLTg1LjQtMzIuMWMtMTktNDIuNy04My4xLTgwLjIgMC0xNDUuOEMyOTYgNTMuMiAyNDIuODQgMCAyNDIuODQgMGMyMS41IDg0LjUtNzUuNiAxMTAuMS0xMTAuNyAxNjIuNmMtMjMuOSAzNS45IDExLjcgNzQuNCA2MC4yIDExOC4ybTExNC42LTE3Ni4yYy4xIDAtMTc1LjIgNDMuOC05MS41IDE0MC4yYzI0LjcgMjguNC02LjUgNTQtNi41IDU0czYyLjctMzIuNCAzMy45LTcyLjljLTI2LjktMzcuOC00Ny41LTU2LjYgNjQuMS0xMjEuM20tNi4xIDI3MC41YTEyLjIgMTIuMiAwIDAgMS0yIDIuNmMxMjguMy0zMy43IDgxLjEtMTE4LjkgMTkuOC05Ny4zYTE3LjMzIDE3LjMzIDAgMCAwLTguMiA2LjNhNzAuNSA3MC41IDAgMCAxIDExLTNjMzEtNi41IDc1LjUgNDEuNS0yMC42IDkxLjRNMzQ4IDQzNy40czE0LjUgMTEuOS0xNS45IDIxLjJjLTU3LjkgMTcuNS0yNDAuOCAyMi44LTI5MS42LjdjLTE4LjMtNy45IDE2LTE5IDI2LjgtMjEuM2MxMS4yLTIuNCAxNy43LTIgMTcuNy0yYy0yMC4zLTE0LjMtMTMxLjMgMjguMS01Ni40IDQwLjJDMjMyLjg0IDUwOS40IDQwMSA0NjEuMyAzNDggNDM3LjRNMTI0LjQ0IDM5NmMtNzguNyAyMiA0Ny45IDY3LjQgMTQ4LjEgMjQuNWExODYgMTg2IDAgMCAxLTI4LjItMTMuOGMtNDQuNyA4LjUtNjUuNCA5LjEtMTA2IDQuNWMtMzMuNS0zLjgtMTMuOS0xNS4yLTEzLjktMTUuMm0xNzkuOCA5Ny4yYy03OC43IDE0LjgtMTc1LjggMTMuMS0yMzMuMyAzLjZjMC0uMSAxMS44IDkuNyA3Mi40IDEzLjZjOTIuMiA1LjkgMjMzLjgtMy4zIDIzNy4xLTQ2LjljMCAwLTYuNCAxNi41LTc2LjIgMjkuN00yNjAuNjQgMzUzYy01OS4yIDExLjQtOTMuNSAxMS4xLTEzNi44IDYuNmMtMzMuNS0zLjUtMTEuNi0xOS43LTExLjYtMTkuN2MtODYuOCAyOC44IDQ4LjIgNjEuNCAxNjkuNSAyNS45YTYwLjQgNjAuNCAwIDAgMS0yMS4xLTEyLjgiIC8+Cjwvc3ZnPgo=" /></a>
+    <!--Python-->
+    <a href="https://docs.python.org/pt-br/3/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+    <br />
+    <!--PHP-->
+    <a href="https://www.php.net/docs.php" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+    <!--HTML-->
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+    <!--CSS-->
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" /></a>
+    <!--JavaScript-->
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+    <!--MySQL-->
+    <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+    <br />
+    <!--Unity-->
+    <a href="https://docs.unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black" /></a>
+    <!--VS Code-->
+    <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMzIgMzIiPgoJPHBhdGggZD0iTTAgMGgzMnYzMkgweiIgZmlsbD0ibm9uZSIgLz4KCTxwYXRoIGZpbGw9IiNmZmYiIGQ9Im0yOS4wMSA1LjAzbC01Ljc2Ni0yLjc3NmExLjc0IDEuNzQgMCAwIDAtMS45ODkuMzM4TDIuMzggMTkuOGExLjE2NiAxLjE2NiAwIDAgMC0uMDggMS42NDdxLjAzNy4wNC4wNzcuMDc3bDEuNTQxIDEuNGExLjE2NSAxLjE2NSAwIDAgMCAxLjQ4OS4wNjZMMjguMTQyIDUuNzVBMS4xNTggMS4xNTggMCAwIDEgMzAgNi42NzJ2LS4wNjdhMS43NSAxLjc1IDAgMCAwLS45OS0xLjU3NSIgLz4KCTxwYXRoIGZpbGw9IiNmZmYiIGQ9Im0yOS4wMSAyNi45N2wtNS43NjYgMi43NzdhMS43NDUgMS43NDUgMCAwIDEtMS45ODktLjMzOEwyLjM4IDEyLjJhMS4xNjYgMS4xNjYgMCAwIDEtLjA4LTEuNjQ3cS4wMzctLjA0LjA3Ny0uMDc3bDEuNTQxLTEuNEExLjE2NSAxLjE2NSAwIDAgMSA1LjQxIDkuMDFsMjIuNzMyIDE3LjI0QTEuMTU4IDEuMTU4IDAgMCAwIDMwIDI1LjMyOHYuMDcyYTEuNzUgMS43NSAwIDAgMS0uOTkgMS41NyIgLz4KCTxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yMy4yNDQgMjkuNzQ3YTEuNzQ1IDEuNzQ1IDAgMCAxLTEuOTg5LS4zMzhBMS4wMjUgMS4wMjUgMCAwIDAgMjMgMjguNjg0VjMuMzE2YTEuMDI0IDEuMDI0IDAgMCAwLTEuNzQ5LS43MjRhMS43NCAxLjc0IDAgMCAxIDEuOTg5LS4zMzlsNS43NjUgMi43NzJBMS43NSAxLjc1IDAgMCAxIDMwIDYuNnYxOC44YTEuNzUgMS43NSAwIDAgMS0uOTkxIDEuNTc2WiIgLz4KPC9zdmc+Cg==" /></a>
+    <!--Eclipse IDE-->
+    <a href="https://help.eclipse.org/latest/index.jsp" target="_blank"><img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" /></a>
+    <br />
+    <!--Windows-->
+    <a href="https://learn.microsoft.com/pt-br/windows/" target="_blank"><img src="https://img.shields.io/badge/Windows-00A4EF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4KCTxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMi41IDEyLjVIMjBWMjBoLTcuNXptMC0xVjRIMjB2Ny41em0tMSAwSDRWNGg3LjV6bTAgMVYyMEg0di03LjV6IiAvPgo8L3N2Zz4K" /></a>
+    <!--Linux-->
+    <a href="https://www.kernel.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 </div>
 
 ---
