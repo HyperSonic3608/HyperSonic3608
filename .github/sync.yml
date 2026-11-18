@@ -3,4 +3,3 @@ HyperSonic3608/HyperSonic3608.github.io:
       dest: index.md
     - source: img/
       dest: img/
-      deleteOrphaned: true
