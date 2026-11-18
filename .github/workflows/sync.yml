@@ -1,0 +1,31 @@
+name: Sync README to GitHub Pages
+
+on:
+    push:
+        branches:
+            - main
+        paths:
+            - README.md
+            - img/
+            - .github/sync.yml
+            - .github/workflows/sync.yml
+
+    workflow_dispatch:
+
+permissions:
+    contents: read
+
+jobs:
+    sync:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout Repository
+              uses: actions/checkout@v4
+
+            - name: Sync README
+              uses: BetaHuhn/repo-file-sync-action@v1
+              with:
+                  GH_PAT: ${{ secrets.GH_PAT }}
+                  IS_FINE_GRAINED: true
+                  SKIP_PR: true

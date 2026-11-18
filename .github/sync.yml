@@ -1,0 +1,5 @@
+HyperSonic3608/HyperSonic3608.github.io:
+    - source: README.md
+      dest: index.md
+    - source: img/
+      dest: img/
