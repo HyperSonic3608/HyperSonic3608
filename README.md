@@ -107,7 +107,7 @@
 <div align="center">
     <h3><picture><source srcset="https://api.iconify.design/at-icons/stats.svg?color=%23f0f6fc&width=20" media="(prefers-color-scheme: dark)"/><img src="https://api.iconify.design/fa7-solid/at-icons/stats.svg?color=black&width=20" /></picture>&nbsp;Estatísticas:</h3>
     <img src="https://github-stats-extended.vercel.app/api?username=HyperSonic3608&show_icons=true&include_all_commits=true&theme=dark_github&hide_border=true&locale=pt-br" height="110" alt="stats graph"  />
-    <img src="img/streak.svg" height="110" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=HyperSonic3608&theme=github-dark&hide_border=true&locale=pt_BR&timezone=America/Sao_Paulo&card_height=110" height="110" alt="streak graph"  />
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=HyperSonic3608&layout=compact&langs_count=6&theme=dark_github&hide_border=true&locale=pt-br" height="110" alt="languages graph"  />
 </div>
 
