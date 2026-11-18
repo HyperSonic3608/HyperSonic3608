@@ -35,7 +35,7 @@
 
 <!--Habilidades-->
 <div align="center">
-    <h3><picture><source srcset="https://api.iconify.design/fa-solid/code.svg?color=%23f0f6fc&width=20" media="(prefers-color-scheme: dark)"/><img src="https://api.iconify.design/fa-solid/code.svg?color=black&width=20" /></picture>&nbsp;Linguagens e Ferramentas:</h3>
+    <h3><picture><source srcset="https://api.iconify.design/fa-solid/code.svg?color=%23f0f6fc&width=20" media="(prefers-color-scheme: dark)" alt="ícone de código"/><img src="https://api.iconify.design/fa-solid/code.svg?color=black&width=20" alt="ícone de código" /></picture>&nbsp;Linguagens e Ferramentas:</h3>
     <h4>Front-end:</h4>
     <!--HTML-->
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
@@ -105,12 +105,60 @@
 
 <!--Estatísticas-->
 <div align="center">
-    <h3><picture><source srcset="https://api.iconify.design/at-icons/stats.svg?color=%23f0f6fc&width=20" media="(prefers-color-scheme: dark)"/><img src="https://api.iconify.design/fa7-solid/at-icons/stats.svg?color=black&width=20" /></picture>&nbsp;Estatísticas:</h3>
-    <img src="https://github-stats-extended.vercel.app/api?username=HyperSonic3608&show_icons=true&include_all_commits=true&theme=dark_github&hide_border=true&locale=pt-br" height="110" alt="stats graph"  />
-    <img src="https://streak-stats.demolab.com?user=HyperSonic3608&theme=github-dark&hide_border=true&locale=pt_BR&timezone=America/Sao_Paulo&card_height=110" height="110" alt="streak graph"  />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=HyperSonic3608&layout=compact&langs_count=6&theme=dark_github&hide_border=true&locale=pt-br" height="110" alt="languages graph"  />
+    <h3><picture><source srcset="https://api.iconify.design/at-icons/stats.svg?color=%23f0f6fc&width=20" alt="ícone de gráfico" media="(prefers-color-scheme: dark)"/><img src="https://api.iconify.design/fa7-solid/at-icons/stats.svg?color=black&width=20" alt="ícone de gráfico" /></picture>&nbsp;Estatísticas:</h3>
+    <!--Estatísticas GitHub-->
+    <picture>
+        <source 
+            srcset="https://github-stats-extended.vercel.app/api?username=HyperSonic3608&show_icons=true&include_all_commits=true&theme=dark_github&hide_border=true&locale=pt-br"
+            height="110" 
+            alt="gráfico de estatísticas do github"
+            media="(prefers-color-scheme: dark)"
+        />
+        <img
+            src="https://github-stats-extended.vercel.app/api?username=HyperSonic3608&show_icons=true&include_all_commits=true&theme=light_github&hide_border=true&locale=pt-br" 
+            height="110" 
+            alt="gráfico de estatísticas do github"
+        />
+    </picture>
+    <!--Estatísticas de Sequência-->
+    <picture>
+        <source 
+            srcset="https://streak-stats.demolab.com?user=HyperSonic3608&theme=github-dark&hide_border=true&locale=pt_BR&timezone=America/Sao_Paulo&card_height=110"
+            height="110" 
+            alt="gráfico de sequência"
+            media="(prefers-color-scheme: dark)"
+        />
+        <img
+            src="https://streak-stats.demolab.com?user=HyperSonic3608&theme=github-light&hide_border=true&locale=pt_BR&timezone=America/Sao_Paulo&card_height=110" 
+            height="110" 
+            alt="gráfico de sequência"
+        />
+    </picture>
+    <!--Linguagens mais usadas-->
+    <picture>
+        <source 
+            srcset="https://github-stats-extended.vercel.app/api/top-langs?username=HyperSonic3608&layout=compact&langs_count=6&theme=dark_github&hide_border=true&locale=pt-br"
+            height="110" 
+            alt="gráfico de linguagens"
+            media="(prefers-color-scheme: dark)"
+        />
+        <img
+            src="https://github-stats-extended.vercel.app/api/top-langs?username=HyperSonic3608&layout=compact&langs_count=6&theme=light_github&hide_border=true&locale=pt-br" 
+            height="110" 
+            alt="gráfico de linguagens"
+        />
+    </picture>
 </div>
 
 <br clear="both">
 
-<picture><source srcset="https://raw.githubusercontent.com/HyperSonic3608/HyperSonic3608/refs/heads/output/snake-dark.svg" media="(prefers-color-scheme: dark)"/><img src="https://raw.githubusercontent.com/HyperSonic3608/HyperSonic3608/refs/heads/output/snake.svg" /></picture>
+<picture>
+    <source 
+        srcset="https://raw.githubusercontent.com/HyperSonic3608/HyperSonic3608/refs/heads/output/snake-dark.svg" media="(prefers-color-scheme: dark)"
+        alt="animação da cobrinha"
+    />
+    <img 
+        src="https://raw.githubusercontent.com/HyperSonic3608/HyperSonic3608/refs/heads/output/snake.svg"
+        alt="animação da cobrinha"
+    />
+</picture>
