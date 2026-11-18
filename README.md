@@ -1,4 +1,4 @@
-<img src="img/banner.gif"/>
+<img src="https://hypersonic3608.github.io/img/banner.gif"/>
 
 ---
 
