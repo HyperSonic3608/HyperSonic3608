@@ -6,7 +6,7 @@ on:
             - main
         paths:
             - README.md
-            - img/
+            - img/**
             - .github/sync.yml
             - .github/workflows/sync.yml
 
