@@ -113,4 +113,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HyperSonic3608/HyperSonic3608/output/snake-dark.svg" alt="Snake animation" />
+<picture><source srcset="https://raw.githubusercontent.com/HyperSonic3608/HyperSonic3608/refs/heads/output/snake-dark.svg" media="(prefers-color-scheme: dark)"/><img src="https://raw.githubusercontent.com/HyperSonic3608/HyperSonic3608/refs/heads/output/snake.svg" /></picture>
