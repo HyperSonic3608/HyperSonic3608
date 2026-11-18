@@ -105,7 +105,7 @@
 
 <!--Estatísticas-->
 <div align="center">
-    <h3><picture><source srcset="https://api.iconify.design/at-icons/stats.svg?color=%23f0f6fc&width=20" alt="ícone de gráfico" media="(prefers-color-scheme: dark)"/><img src="https://api.iconify.design/fa7-solid/at-icons/stats.svg?color=1f2328&width=20" alt="ícone de gráfico" /></picture>&nbsp;Estatísticas:</h3>
+    <h3><picture><source srcset="https://api.iconify.design/at-icons/stats.svg?color=%23f0f6fc&width=20" alt="ícone de gráfico" media="(prefers-color-scheme: dark)"/><img src="https://api.iconify.design/at-icons/stats.svg?color=1f2328&width=20" alt="ícone de gráfico" /></picture>&nbsp;Estatísticas:</h3>
     <!--Estatísticas GitHub-->
     <picture>
         <source 
